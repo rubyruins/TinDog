@@ -1,1 +1,1 @@
-TinDog Starting Files
+Introducing TinDog. Meet new and interesting dogs nearby!
