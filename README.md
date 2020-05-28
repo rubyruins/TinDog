@@ -1,1 +1,2 @@
-# Introducing TinDog. Meet new and interesting dogs nearby!
+## Introducing TinDog. 🐶 🐕
+_Meet new and interesting dogs nearby!_
